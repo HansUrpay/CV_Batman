@@ -1,0 +1,86 @@
+html {
+  background-color: #e5e5e5;
+}
+
+body {
+  width: 90%;
+  margin: 0 auto 20px auto;
+  background-color: #ffffff;
+}
+
+#contenedor-imagen {
+  background-color: #e5e5e5;
+}
+
+.img-batman {
+  display: flex;
+  margin: auto;
+  padding: 15px;
+}
+
+h1,
+.informacion {
+  color: #005677;
+  background-color: #c4c4c4;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  letter-spacing: 10px;
+  margin-top: 0;
+  margin-bottom: 100px;
+  height: 50px;
+}
+
+.datos-personales {
+  font-style: italic;
+  font-weight: bold;
+}
+
+li {
+  margin: 5px;
+}
+
+.informacion {
+  display: flex;
+  align-items: center;
+  height: 25px;
+  letter-spacing: 5px;
+  text-indent: 20px;
+  margin: 22px 0;
+}
+
+.fechas {
+  font-weight: bold;
+  padding-left: 25px;
+}
+
+dt {
+  margin-top: 5px;
+}
+
+dd {
+  padding-left: 65px;
+}
+
+.logo-red-social {
+  height: 20px;
+  margin-left: 20px;
+}
+
+#batman-footer {
+  font-weight: normal;
+}
+
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #005677;
+  height: 35px;
+  color: #ffffff;
+  text-align: center;
+  margin-top: 100px;
+}
